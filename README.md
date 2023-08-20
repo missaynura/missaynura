@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 --->
 <!-- Information using h1 tag -->
-<h1 align="center">Hi 👋, I'm Ahmet</h1>
+<h1 align="center">Hi 👋, I'm Aynura</h1>
 <h5 align="center">Full-Stack Automation Testing with Selenium | Java | API | RestAssured | PostgreSQL | Postman | Jira</h5>
 <h5 align="center">   </h5>
 
